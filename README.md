@@ -43,6 +43,9 @@ For a production build:
 ```bash
 npm run build
 ```
+## Live Demo
+
+[https://color-pallete-tool.vercel.app](https://color-pallete-tool.vercel.app)
 
 ## Note
 
